@@ -25,20 +25,18 @@ This system automates and simplifies the management of scholarships for educatio
 ## 📂 Folder Structure
 
 /Scholarship-System
-├── admin/
-│ ├── dashboard.php
-│ └── view_applications.php
-├── student/
-│ ├── apply.php
-│ └── status.php
-├── includes/
-│ ├── dbconnection.php
-│ └── session.php
-├── assets/
-│ ├── css/
-│ ├── js/
-│ └── images/
 ├── index.php
-└── contact.php
+├── contact.php
+├── admin/
+│   └── dashboard.php
+├── student/
+│   └── apply.php
+├── includes/
+│   └── dbconnection.php
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+
 
 
